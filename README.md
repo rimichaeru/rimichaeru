@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![alt text](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white "Protonmail")
+
+
 <!--
 **rimichaeru/rimichaeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
