@@ -21,14 +21,17 @@ and I enjoy fishing :fishing_pole_and_fish: and philosophy :seedling:
 
 ---
 
-Get in contact!
-[<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">](mailto:conceptual@protonmail.com)
+##### Get in contact!
+[<img align="left" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">](mailto:conceptual@protonmail.com)
 
+<br>
+<br>
 
-Check out my book!
+##### Check out my book!
 [:closed_book:](https://books2read.com/u/47EEQ7)
 
+<br>
+<br>
 
-Check out my articles!
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](lee-michael.medium.com)
-
+##### Check out my articles!
+[<img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](lee-michael.medium.com)
