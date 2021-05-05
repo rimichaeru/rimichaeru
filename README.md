@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 
+[<img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white">](conceptual@protonmail.com)
 ![alt text](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white "Protonmail")
 
 
