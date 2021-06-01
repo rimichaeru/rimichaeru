@@ -28,3 +28,18 @@ and I enjoy fishing :fishing_pole_and_fish: and philosophy :seedling:
 
 ##### Check out my articles!
 [<img align="left" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](lee-michael.medium.com)
+
+<br>
+<br>
+
+## &#x1f4c8; GitHub stats
+
+##### Percentage-wise, more Python and Jupyter than I expected!
+
+<a href="https://github.com/rimichaeru/rimichaeru">
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimichaeru&theme=light&layout=compact" />
+</a>
+
+<a href="https://github.com/rimichaeru/rimichaeru">
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=rimichaeru&show_icons=true&theme=light" />
+</a>
